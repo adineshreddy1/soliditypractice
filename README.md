@@ -1,0 +1,2 @@
+# soliditypractice
+Practice Solidity 
